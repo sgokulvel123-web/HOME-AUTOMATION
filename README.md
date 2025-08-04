@@ -72,3 +72,10 @@ void loop() {
     digitalWrite(ALERT_LED, LOW);
   }
 }
+
+
+#OUPUT
+
+![Image](https://github.com/user-attachments/assets/befba106-1a42-4024-924c-2e162ac619e2)
+![Image](https://github.com/user-attachments/assets/ce138b86-ed62-4ee2-973d-6518912d83cc)
+![Image](https://github.com/user-attachments/assets/88e914a3-0102-40a5-9251-86a6ce4cc34f)
